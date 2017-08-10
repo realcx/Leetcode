@@ -1,2 +1,3 @@
 # Leetcode
-Start coding from 2017.07.11 - Roger Cui
+
+Start coding from 2017.08.10 - Roger Cui
